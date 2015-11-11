@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Procedures that call undocumented procedures]
+CREATE PROCEDURE [SQLCop].[test Procedures that call undocumented procedures]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -100,3 +100,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End 
 END;
+

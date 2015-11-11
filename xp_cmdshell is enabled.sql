@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test xp_cmdshell is enabled]
+CREATE PROCEDURE [SQLCop].[test xp_cmdshell is enabled]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -27,3 +27,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End 
 END;
+

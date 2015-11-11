@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Procedures with @@Identity]
+CREATE PROCEDURE [SQLCop].[test Procedures with @@Identity]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -33,3 +33,4 @@ BEGIN
 		End
 	
 END;
+

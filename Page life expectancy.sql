@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Page life expectancy]
+CREATE PROCEDURE [SQLCop].[test Page life expectancy]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -31,3 +31,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End 
 END;
+

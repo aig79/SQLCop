@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Views with order by]
+CREATE PROCEDURE [SQLCop].[test Views with order by]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -33,3 +33,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End	  
 END;
+

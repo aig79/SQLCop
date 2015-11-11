@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Ad hoc distributed queries]
+CREATE PROCEDURE [SQLCop].[test Ad hoc distributed queries]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -27,3 +27,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End
 END;
+

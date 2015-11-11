@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Agent Service]
+CREATE PROCEDURE [SQLCop].[test Agent Service]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -47,3 +47,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End 
 END;
+

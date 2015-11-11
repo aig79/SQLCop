@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Old Backups]
+CREATE PROCEDURE [SQLCop].[test Old Backups]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -32,3 +32,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End  
 END;
+

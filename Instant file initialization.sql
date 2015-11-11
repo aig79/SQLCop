@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Instant File Initialization]
+CREATE PROCEDURE [SQLCop].[test Instant File Initialization]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -47,3 +47,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End  
 END;
+

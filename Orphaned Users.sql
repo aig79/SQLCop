@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Orphaned Users]
+CREATE PROCEDURE [SQLCop].[test Orphaned Users]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -37,3 +37,4 @@ BEGIN
 		End  
 		  
 END;
+

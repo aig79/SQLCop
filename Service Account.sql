@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Service Account]
+CREATE PROCEDURE [SQLCop].[test Service Account]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -38,3 +38,4 @@ BEGIN
 		End  
 		
 END;
+

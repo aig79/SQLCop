@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test UniqueIdentifier with NewId]
+CREATE PROCEDURE [SQLCop].[test UniqueIdentifier with NewId]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -44,3 +44,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End
 END;
+

@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Decimal Size Problem]
+CREATE PROCEDURE [SQLCop].[test Decimal Size Problem]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -32,3 +32,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End  
 END;
+

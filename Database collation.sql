@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Database collation]
+CREATE PROCEDURE [SQLCop].[test Database collation]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -25,3 +25,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End  
 END;
+

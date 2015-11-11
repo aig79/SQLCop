@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Max degree of parallelism]
+CREATE PROCEDURE [SQLCop].[test Max degree of parallelism]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -27,3 +27,4 @@ BEGIN
 			EXEC tSQLt.Fail @Output
 		End  
 END;
+

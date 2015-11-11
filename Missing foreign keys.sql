@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Missing Foreign Keys]
+CREATE PROCEDURE [SQLCop].[test Missing Foreign Keys]
 AS
 BEGIN
 	-- Written by George Mastros
@@ -41,3 +41,4 @@ BEGIN
 		End			
   
 END;
+
