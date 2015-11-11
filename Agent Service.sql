@@ -26,7 +26,7 @@ BEGIN
 
         Create Table #Temp(Output VarChar(1000))
         Insert Into #Temp
-        EXEC master..xp_servicecontrol N'QUERYSTATE', @service 
+        EXEC master.sys.xp_servicecontrol N'QUERYSTATE', @service 
 
         Select	Top 1 @Output = Output
         From	#Temp 
