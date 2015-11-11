@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Missing Foreign Key Indexes]
+CREATE PROCEDURE [SQLCop].[test Missing Foreign Key Indexes]
 AS
 BEGIN
 	-- Written by George Mastros

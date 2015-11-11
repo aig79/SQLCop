@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Ole Automation Procedures]
+CREATE PROCEDURE [SQLCop].[test Ole Automation Procedures]
 AS
 BEGIN
 	-- Written by George Mastros

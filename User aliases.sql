@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test User Aliases]
+CREATE PROCEDURE [SQLCop].[test User Aliases]
 AS
 BEGIN
 	-- Written by George Mastros

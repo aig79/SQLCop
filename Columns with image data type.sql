@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Columns with image data type]
+CREATE PROCEDURE [SQLCop].[test Columns with image data type]
 AS
 BEGIN
 	-- Written by George Mastros

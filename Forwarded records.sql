@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Forwarded Records]
+CREATE PROCEDURE [SQLCop].[test Forwarded Records]
 AS
 BEGIN
 	-- Written by George Mastros

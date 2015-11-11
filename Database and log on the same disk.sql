@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Database and Log files on the same disk]
+CREATE PROCEDURE [SQLCop].[test Database and Log files on the same disk]
 AS
 BEGIN
 	-- Written by George Mastros

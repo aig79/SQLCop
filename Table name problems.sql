@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Table name problems]
+CREATE PROCEDURE [SQLCop].[test Table name problems]
 AS
 BEGIN
 	-- Written by George Mastros

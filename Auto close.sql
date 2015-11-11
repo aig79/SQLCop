@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Auto close]
+CREATE PROCEDURE [SQLCop].[test Auto close]
 AS
 BEGIN
 	-- Written by George Mastros

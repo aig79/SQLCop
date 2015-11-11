@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Column Name Problems]
+CREATE PROCEDURE [SQLCop].[test Column Name Problems]
 AS
 BEGIN
 	-- Written by George Mastros

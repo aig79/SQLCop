@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Views with order by]
+CREATE PROCEDURE [SQLCop].[test Views with order by]
 AS
 BEGIN
 	-- Written by George Mastros

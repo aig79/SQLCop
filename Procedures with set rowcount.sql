@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Procedures With SET ROWCOUNT]
+CREATE PROCEDURE [SQLCop].[test Procedures With SET ROWCOUNT]
 AS
 BEGIN
 	-- Written by George Mastros

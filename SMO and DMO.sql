@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test SMO and DMO]
+CREATE PROCEDURE [SQLCop].[test SMO and DMO]
 AS
 BEGIN
 	-- Written by George Mastros

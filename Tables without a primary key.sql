@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Tables without a primary key]
+CREATE PROCEDURE [SQLCop].[test Tables without a primary key]
 AS
 BEGIN
 	-- Written by George Mastros

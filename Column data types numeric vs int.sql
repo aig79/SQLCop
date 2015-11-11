@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Column data types (Numeric vs. Int)]
+CREATE PROCEDURE [SQLCop].[test Column data types (Numeric vs. Int)]
 AS
 BEGIN
 	-- Written by George Mastros

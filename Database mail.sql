@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Database Mail]
+CREATE PROCEDURE [SQLCop].[test Database Mail]
 AS
 BEGIN
 	-- Written by George Mastros

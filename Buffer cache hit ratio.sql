@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Buffer cache hit ratio]
+CREATE PROCEDURE [SQLCop].[test Buffer cache hit ratio]
 AS
 BEGIN
 	-- Written by George Mastros

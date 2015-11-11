@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Tables that start with tbl]
+CREATE PROCEDURE [SQLCop].[test Tables that start with tbl]
 AS
 BEGIN
 	-- Written by George Mastros

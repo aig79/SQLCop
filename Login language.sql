@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Login Language]
+CREATE PROCEDURE [SQLCop].[test Login Language]
 AS
 BEGIN
 	-- Written by George Mastros

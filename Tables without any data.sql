@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Tables without any data]
+CREATE PROCEDURE [SQLCop].[test Tables without any data]
 AS
 BEGIN
 	-- Written by George Mastros

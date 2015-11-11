@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Columns of data type Text/nText]
+CREATE PROCEDURE [SQLCop].[test Columns of data type Text/nText]
 AS
 BEGIN
 	-- Written by George Mastros

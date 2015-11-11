@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Wide Table]
+CREATE PROCEDURE [SQLCop].[test Wide Table]
 AS
 BEGIN
 	-- Written by George Mastros

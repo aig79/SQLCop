@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Unnamed Constraints]
+CREATE PROCEDURE [SQLCop].[test Unnamed Constraints]
 AS
 BEGIN
 	-- Written by George Mastros

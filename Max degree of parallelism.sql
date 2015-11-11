@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Max degree of parallelism]
+CREATE PROCEDURE [SQLCop].[test Max degree of parallelism]
 AS
 BEGIN
 	-- Written by George Mastros

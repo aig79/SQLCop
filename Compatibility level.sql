@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Compatibility Level]
+CREATE PROCEDURE [SQLCop].[test Compatibility Level]
 AS
 BEGIN
 	-- Written by George Mastros

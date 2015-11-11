@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Agent Service]
+CREATE PROCEDURE [SQLCop].[test Agent Service]
 AS
 BEGIN
 	-- Written by George Mastros

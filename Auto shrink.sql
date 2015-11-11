@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Auto Shrink]
+CREATE PROCEDURE [SQLCop].[test Auto Shrink]
 AS
 BEGIN
 	-- Written by George Mastros

@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Procedures Named SP_]
+CREATE PROCEDURE [SQLCop].[test Procedures Named SP_]
 AS
 BEGIN
 	-- Written by George Mastros

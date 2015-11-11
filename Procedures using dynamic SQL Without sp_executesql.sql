@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Procedures using dynamic SQL without sp_executesql]
+CREATE PROCEDURE [SQLCop].[test Procedures using dynamic SQL without sp_executesql]
 AS
 BEGIN
 	-- Written by George Mastros

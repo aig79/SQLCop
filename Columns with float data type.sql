@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Columns with float data type]
+CREATE PROCEDURE [SQLCop].[test Columns with float data type]
 AS
 BEGIN
 	-- Written by George Mastros

@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Varchar Size Problem]
+CREATE PROCEDURE [SQLCop].[test Varchar Size Problem]
 AS
 BEGIN
 	-- Written by George Mastros

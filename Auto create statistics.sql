@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Auto create statistics]
+CREATE PROCEDURE [SQLCop].[test Auto create statistics]
 AS
 BEGIN
 	-- Written by George Mastros

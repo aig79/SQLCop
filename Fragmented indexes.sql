@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Fragmented Indexes]
+CREATE PROCEDURE [SQLCop].[test Fragmented Indexes]
 AS
 BEGIN
 	-- Written by George Mastros

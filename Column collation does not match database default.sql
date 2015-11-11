@@ -1,4 +1,4 @@
-ALTER PROCEDURE [SQLCop].[test Column collation does not match database default]
+CREATE PROCEDURE [SQLCop].[test Column collation does not match database default]
 AS
 BEGIN
 	-- Written by George Mastros
